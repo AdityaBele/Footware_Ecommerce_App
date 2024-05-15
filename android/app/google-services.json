@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "916963953669",
+    "project_id": "rapid-projectt-ddf6b",
+    "storage_bucket": "rapid-projectt-ddf6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916963953669:android:6cf5e1e4f437b00b2a606c",
+        "android_client_info": {
+          "package_name": "com.example.footware_admin_01"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNZDZsnVYBUcSXs5NFXTiJaa7m5CZOCX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916963953669:android:9111f23d5b29d1012a606c",
+        "android_client_info": {
+          "package_name": "com.example.footware_client"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNZDZsnVYBUcSXs5NFXTiJaa7m5CZOCX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
